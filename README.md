@@ -1,0 +1,2 @@
+# conoha-ml
+ConoHaにMIRACLE LINUXのISOファイルをマウントするもの
