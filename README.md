@@ -9,6 +9,8 @@ ConoHa VPSにMIRACLE LINUX 8.4のISOファイルをマウントするもの for 
 
 **NOTE:** ファイル一式をダウンロードした後、`*.ps`ファイルや`*.bat`ファイルのプロパティから`ブロックの解除`が必要な事があります。
 
+**NOTE:** VPSのプランが512MBだとインストールに失敗します。[公式](https://www.cybertrust.co.jp/miracle-linux/environment.html)には2GB 必須と記載があります。
+
 ### 使い方
 
 事前にマウントしたい対象のVPSをシャットダウンしておいてください。起動しているとマウントに失敗します。
