@@ -1,5 +1,5 @@
 # conoha-ml
-ConoHaにMIRACLE LINUX 8.4のISOファイルをマウントするもの for Windows 10
+ConoHa VPSにMIRACLE LINUX 8.4のISOファイルをマウントするもの for Windows 10
 
 ### 注意事項
 
